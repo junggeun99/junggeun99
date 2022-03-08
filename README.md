@@ -1,16 +1,17 @@
-### Hi there 👋
+# Justin🤔
 
-<!--
-**junggeun99/junggeun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me!!
 
-Here are some ideas to get you started:
+- 🧑🏻‍🎓 I'm majoring in Data Science
+- 🧑🏻‍💻 But I'm studying the front-end roadmap
+- 🏠 I live in Anyang, in South Korea
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+
+- 🦄 The University of Suwon (2018.03~)
+- 🪖 Korean Army, Honorable Discharge (2019.07 ~ 2021.02)
+
+### My favorite
+
+- 🏀 watch basketball, KBL
+- 🏋🏻‍♂️ weight training
