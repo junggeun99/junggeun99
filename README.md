@@ -4,7 +4,7 @@
 
 ### About me!!
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junggeun99">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjunggeun99">
 
 - 🧑🏻‍🎓 I'm majoring in Data Science
 - 🧑🏻‍💻 But I'm studying the Front-end roadmap
