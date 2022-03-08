@@ -4,9 +4,11 @@
 
 ### About me!!
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junggeun99">
+
 - 🧑🏻‍🎓 I'm majoring in Data Science
-- 🧑🏻‍💻 But I'm studying the front-end roadmap
-- 🏠 I live in Anyang, in South Korea
+- 🧑🏻‍💻 But I'm studying the Front-end roadmap
+- 🏠 I live in Anyang, In South Korea
 
 ### Experience
 
@@ -15,5 +17,5 @@
 
 ### My favorite
 
-- 🏀 watch basketball, KBL
-- 🏋🏻‍♂️ weight training
+- 🏀 Watch basketball, KBL
+- 🏋🏻‍♂️ Weight training
