@@ -17,5 +17,5 @@
 
 ### My favorite
 
-- 🏀 Watch basketball, KBL
+- ⚾️ Watch baseball, KBO
 - 🏋🏻‍♂️ Weight training
